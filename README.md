@@ -12,27 +12,5 @@ This Java program allows users to track and manage student grades. The program p
 
 ## Example Output
 
-Enter the number of subjects:
-3
-Enter the subject name:
-Mathematics
-Enter the grade for Mathematics:
-85
-Enter the subject name:
-Science
-Enter the grade for Science:
-92
-Enter the subject name:
-English
-Enter the grade for English:
-78
+![Screenshot 2024-08-09 215708](https://github.com/user-attachments/assets/de71d868-2488-4bcd-be70-cf2fc6efcf51)
 
-Subject Grades:
-Mathematics: 85.0
-Science: 92.0
-English: 78.0
-
-Overall Performance:
-Average Grade: 85.0
-Letter Grade: B
-GPA: 3.0
