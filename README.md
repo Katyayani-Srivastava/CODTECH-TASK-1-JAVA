@@ -1,9 +1,9 @@
-Name:KATYAYANI SRIVASTAVA
-Company:CODTECH IT SOLUTIONS
-ID:CT08DS5895
-Domain:JAVA Programming
-Duration:August to September 2024
-Mentor:Muzammil Ahmed
+- **Name**:KATYAYANI SRIVASTAVA
+- **Company**:CODTECH IT SOLUTIONS
+- **ID**:CT08DS5895
+- **Domain**:JAVA Programming
+- **Duration**:August to September 2024
+- **Mentor**:Muzammil Ahmed
 
 # Overview of Project
 # Project: STUDENT GRADE TRACKER
